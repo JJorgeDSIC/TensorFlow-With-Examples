@@ -3,5 +3,5 @@ Repository to store TensorFlow examples
 
 Versions
 ========
--TensorFlow v1.0
--Python 3.6
+* TensorFlow v1.0
+* Python 3.6
